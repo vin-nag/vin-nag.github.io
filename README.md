@@ -1,7 +1,7 @@
 ## About Me
 I am pursuing a MASc degree with research focused on testing machine learning models at scale. I believe my
 passion for learning, curiosity, technical knowledge and relevant industry and management experience makes me
-an ideal machine learning scientist candidate. Looking for full time positions starting September 2021.
+an ideal machine learning scientist candidate. 
 
 ## Education
 Candidate for MASc: University of Waterloo (Supervisor: Dr. Vijay Ganesh, GPA: 4.0)
